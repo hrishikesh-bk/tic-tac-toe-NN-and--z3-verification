@@ -1,4 +1,4 @@
-# Neural-Network-Assignment-2
+# tic-tac-toe-NN-and--z3-verification
 The goal of the assignement is to create a neural netwrok that classifies moves of the first player in a tic-tac-toe games are good or bad(defined below). Then, verify if the given neural network has done some interesting things(also given below).
 
 
